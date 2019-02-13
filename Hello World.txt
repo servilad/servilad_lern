@@ -1,3 +1,4 @@
 print("HelloWorld")
 print("HelloEvrybody")
 print("как дела")
+print("ветка-конфликт")
