@@ -1,2 +1,3 @@
 print("HelloWorld")
 print("HelloEvrybody")
+print("как дела")
