@@ -1,3 +1,0 @@
-print("Goodby")
-print("123")
-print("Досвидания")
