@@ -1,6 +1,0 @@
-C:\Users\servi\Desktop\GeekBrains\Git\servilad_lern\hellowrold\hellowrold\bin\Debug\hellowrold.exe.config
-C:\Users\servi\Desktop\GeekBrains\Git\servilad_lern\hellowrold\hellowrold\bin\Debug\hellowrold.exe
-C:\Users\servi\Desktop\GeekBrains\Git\servilad_lern\hellowrold\hellowrold\bin\Debug\hellowrold.pdb
-C:\Users\servi\Desktop\GeekBrains\Git\servilad_lern\hellowrold\hellowrold\obj\Debug\hellowrold.csproj.CoreCompileInputs.cache
-C:\Users\servi\Desktop\GeekBrains\Git\servilad_lern\hellowrold\hellowrold\obj\Debug\hellowrold.exe
-C:\Users\servi\Desktop\GeekBrains\Git\servilad_lern\hellowrold\hellowrold\obj\Debug\hellowrold.pdb
